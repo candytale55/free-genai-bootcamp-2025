@@ -1,3 +1,12 @@
+P004
+https://www.meta.ai/prompt/195807e8-2dfc-4f8f-acf1-95db1d57fabd
+
+
+
+P003
+https://www.meta.ai/prompt/680227468507527
+
+
 P002
 https://www.meta.ai/prompt/680208875176053
 Much better result. 
