@@ -1,11 +1,14 @@
 P004
 https://www.meta.ai/prompt/195807e8-2dfc-4f8f-acf1-95db1d57fabd
-
+Changed prompt to match Portuguese learning by a Spanish native.
+Now the assistant should only give the vocabulary table in Portuguese. 
 
 
 P003
 https://www.meta.ai/prompt/680227468507527
-
+The solution is too verbose. 
+Also, there's a clear difference between building an assistant for Japanese phrases, than for Portuguese, especially for a Spanish native speaker. 
+Added bad example as shown in the course video. 
 
 P002
 https://www.meta.ai/prompt/680208875176053
