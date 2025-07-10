@@ -12,6 +12,15 @@ https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-f
 ---
 ---
 
+## Compare P.00 vs Alt.P.00 Prompts
+(2025.07.10) 
+> Testing the two prompt options with the same sentences to see which one works better. 
+- **Why?:** I think that the changes proposed in the Bootcamp are overkill when dealing with Portuguese (from a Spanish speaker student perspective) and the prompt P.00 with examples is actually getting worse results than the simpler Alt.P.00 prompt suggested by Chat-GPT. 
+- **TODO:** After testing is done, don't forget to re-check the formatting parts at minute 12:00, 17:45, 22:00 (examples of structures), 24:00, 29:30-33:00 (NA for PT, but cool!), 31:00 to improve the final prompt.
+- Specially examples at 40:00.
+https://app.exampro.co/student/material/exp-genai/8055 
+
+
 ### Alt-P.00 Alt-Chat-GPT Sentence Constructor Prompt
 > Suggested by ChatGPT in chat (bottom): 
 https://chatgpt.com/c/686f6581-ae90-8013-a4c2-140f8a7e833c 
