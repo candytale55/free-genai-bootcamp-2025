@@ -59,3 +59,26 @@ Please evaluate the prompt response and give a numeric score that is easy to rep
 Explain why you chose the score.
 ```
 
+## Notes about Videos (TODOs)
+
+### Pre-Week
+
+### Rewatch: 
+
+https://app.exampro.co/student/material/exp-genai/8052
+https://www.youtube.com/watch?v=_r1X380nEKg 
+28.00 - Asking for help. Reporting Errors
+40.00 - SheClouds, SheGenies, GenAI-Español
+
+46.00 - ML104: Architecting GenAI systems WATCH
+
+1.03.00 - Architecting GenAI - Conceptual, Logical and Physical. (Also TOGAF, C4 model)
+Business Goals & Designs Patters
+1:13 - Repo instructions (Create your own Repo)  
+1:15 - Diagram of LangPortal App (BackEnd and FrontEnd) 
+       Used Windsurf
+1:20 - Logical View
+1:28 - Conceptual Design (Start from here)
+1:39 - Discussion on database
+1.41 - Gen AI Magic. WATCH
+1.55 - Make a Conceptual Diagram INSTRUCTIONS
