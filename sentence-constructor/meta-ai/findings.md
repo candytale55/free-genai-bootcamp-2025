@@ -1,3 +1,12 @@
+
+NOTES:
+(2025.07.14)
+This is the first assistant I tried. 
+- The final prompt is not as refined.
+- Therefore, the results are mediocre, but to really see if the issue is due to Meta or to the prompt, I'll have to retest the final prompt with it. 
+- It would be a good idea to add better examples. 
+- This is subjective, and probably because I've used it more, but I like Chat-GPT better.  
+
 P004
 https://www.meta.ai/prompt/195807e8-2dfc-4f8f-acf1-95db1d57fabd
 Changed prompt to match Portuguese learning by a Spanish native.
