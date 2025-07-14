@@ -13,6 +13,11 @@ https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-f
 ---
 
 
+# P.00 Prompt Chat-GPT
+https://chatgpt.com/c/687518bb-7f04-8013-bd57-43019419c0c6 
+
+    Testing the final prompt (alt-01 with an example) in all models
+
 
 
 ## Compare P.00 vs Alt.P.00 Prompts Update
@@ -22,7 +27,7 @@ I still need to make a serious comparison using scores and a fixed system, but i
 
 Truthfully, I don't want to dwell too much on this point. I want to keep moving forward, testing other LLM assistants, and progressing to the next stages of the bootcamp.
 
-What I will do is add a good enough example to Alt.P.01 and work from there.
+What I will do is add a good enough example to Alt.P.01 and work from there. This is going to be tested in **P.00 Prompt Chat-GPT** 
 
 
 ### So, future wish TODO list:
