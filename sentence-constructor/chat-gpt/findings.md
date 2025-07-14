@@ -2,7 +2,7 @@
 
 ## Which Model:
 
-Using the free-tier Chat-GPT. I'm not letting it to use chatGPT-Plus
+Using bpth the free-tier Chat-GPT and chatGPT-Plus (until it reaches its limit).
 
 
 ## Prompting Guides:
@@ -11,6 +11,26 @@ https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-f
 
 ---
 ---
+
+
+
+
+## Compare P.00 vs Alt.P.00 Prompts Update
+(2025.07.14)
+
+I still need to make a serious comparison using scores and a fixed system, but in general, the version suggested by ChatGPT worked the same or better than the one in prompt.md. I think this may be because Portuguese is not as hard as Japanese.
+
+Truthfully, I don't want to dwell too much on this point. I want to keep moving forward, testing other LLM assistants, and progressing to the next stages of the bootcamp.
+
+What I will do is add a good enough example to Alt.P.01 and work from there.
+
+
+### So, future wish TODO list:
+
+- Test each prompt test in both chats and rate them.
+- I wrote a draft for a test but haven't implemented it. Keep it in my personal notes (note to self: go search for it when you can). I have no idea how to test prompts properly, which is why I'm skipping this for now and leaving it for later.
+
+
 
 ## Compare P.00 vs Alt.P.00 Prompts
 (2025.07.10) 
@@ -26,6 +46,8 @@ https://app.exampro.co/student/material/exp-genai/8055
 https://chatgpt.com/c/686f6581-ae90-8013-a4c2-140f8a7e833c 
 > To be tested along prompt.md 
 > Doesn't have examples so far. 
+
+Note to self: Check the tests by Ctrl + F " Tenta agora reformular a frase com essas correções. Estou a torcer por ti!" - They are not the first sentence I tried. 
 
 
 ### Chat-GPT link: 
