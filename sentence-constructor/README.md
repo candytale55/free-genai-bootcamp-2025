@@ -11,8 +11,42 @@ Meta-Ai, Chat-GPT, Claude, Gemini, Perplexity, Mistral
 
 - ChatGPT, Claude and Gemini will work fine.
 - Maybe there will be some issues due to the Acordo Ortografico.
-- Portuguese Sentences are less difficult than Japanese. It wouldn't need as much tweaking as the Japanese teacher agent. 
+- Portuguese Sentences are less difficult than Japanese. It wouldn't need as much tweaking as the Japanese teacher agent. Nor so many examples. 
 
+---
+
+# HOMEWORK - PREWEEK (DRAFT): 
+
+## Github Link to Sentence Constructor
+https://github.com/candytale55/free-genai-bootcamp-2025/tree/main/sentence-constructor
+
+## Github Link to GenAI Architecture
+
+
+## Hypothesis and Technical Uncertainty*
+
+
+
+
+## Technical Exploration*
+_Briefly describe the path of technical exploration during these projects._
+
+
+
+## Final Outcomes*
+_Describe your final outcomes or domain knowledge acquired._
+
+
+## Considerations / Exceptions / Accommodations
+_If you want to add anything additional to share with your instructor. Or if you're submitting late and you want to request an exception or considerations._
+
+
+---
+
+
+
+
+## Additional Notes
 
 ### Acordo Ortografico
 
@@ -25,7 +59,7 @@ This means that when using Portuguese with an LLM, it helps to say which version
 I've experienced this issue with ChatGPT before the boodcamp, so I expect this could happen if not addressed. 
 
 
-## Draft for Sentence Constructor Tester
+###  Draft for Sentence Constructor Tester
 
 ```
 I wan't to test the answer given to this prompt.  This are the items to test:
@@ -61,9 +95,7 @@ Explain why you chose the score.
 
 ## Notes about Videos (TODOs)
 
-### Pre-Week
-
-### Rewatch: 
+### Pre-Week (REWATCH)
 
 https://app.exampro.co/student/material/exp-genai/8052
 https://www.youtube.com/watch?v=_r1X380nEKg 
@@ -82,3 +114,26 @@ Business Goals & Designs Patters
 1:39 - Discussion on database
 1.41 - Gen AI Magic. WATCH
 1.55 - Make a Conceptual Diagram INSTRUCTIONS
+
+
+### Week 1 -  (REWATCH)
+
+## Week 1 - Dev and DevTools
+
+https://app.exampro.co/student/material/exp-genai/8065 
+https://www.youtube.com/watch?v=F_aMu_0V_3c
+
+10.00 - What this is going to be about.
+	Backend - Lang Portal
+        Coding Assistant: Cursor, Windsurf, etc
+	LRS (Learning Record Store)
+	SQL3
+21:00 Download the BackEnd Code
+
+
+Add. Cursor AI Lab (GenAi Essentials)
+https://app.exampro.co/student/material/exp-genai-001/7938
+https://www.youtube.com/watch?v=QOWxXmyIiQ0
+
+
+
