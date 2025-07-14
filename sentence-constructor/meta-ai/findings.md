@@ -1,4 +1,11 @@
 
+# P.00 Prompt Meta-Ai
+https://www.meta.ai/prompt/d91ab5cc-7db6-4196-b69b-c7cf70cc02f6 
+(2025.07.14)
+- I'm testing the refined prompt from Chat-GPT in all assistants with the same sentences to be able to compare them. 
+
+
+
 NOTES:
 (2025.07.14)
 This is the first assistant I tried. 

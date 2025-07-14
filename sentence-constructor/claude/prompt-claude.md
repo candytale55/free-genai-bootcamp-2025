@@ -3,9 +3,10 @@ https://claude.ai/chat/3b0002bd-6bc7-431d-9281-83c7ff3390c9
 
 
 
-
+# PROMPT
 
 ## Role:
+
 Act as a European Portuguese teacher for a B1 student.
 
 ## Task:
