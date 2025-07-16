@@ -1,6 +1,6 @@
 ## Notes about Videos (TODOs)
 
-## Pre-Week 
+## PRE-WEEK
 
 ### LiveStream
 https://app.exampro.co/student/material/exp-genai/8052
@@ -19,9 +19,9 @@ https://www.youtube.com/watch?v=_r1X380nEKg
 1.55 - Make a Conceptual Diagram INSTRUCTIONS
 
 
-## Week 1 
+## Week 1 - DEV AND DEVTOOLS
 
-### Dev and DevTools (REWATCH)
+### LiveStream - Dev and DevTools (REWATCH)
 
 https://app.exampro.co/student/material/exp-genai/8065 
 https://www.youtube.com/watch?v=F_aMu_0V_3c
@@ -41,10 +41,9 @@ https://app.exampro.co/student/material/exp-genai-001/7938
 https://www.youtube.com/watch?v=QOWxXmyIiQ0
 
 
-## Week 2 
-
 ### GenAi Data Primer with Kierra
 https://www.youtube.com/watch?v=dtiWU5zk_nw
+https://app.exampro.co/student/material/exp-genai/8064
 
 3:30 -  Agenda + Why it matters?    
 4:48 -  Overfeeding Model   
