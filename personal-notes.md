@@ -59,3 +59,19 @@ https://app.exampro.co/student/material/exp-genai/8064
 56:25 - Data Privacy    
 58: - Takaways  
 
+Draft the Specs.
+### Backend API Writing Backend Frontend Tech Specs
+https://app.exampro.co/student/material/exp-genai/8066
+https://www.youtube.com/watch?v=MEhzoR2qJQM
+6:00 Tech Specs
+
+11:30 Screen of the DashBoard
+14:00 Launch Page
+14-15:00 - Words
+16:00 Study Session
+
+18:00 Specs DashBoard
+23:00 Study Actitivies. 
+
+36:00 FrontEnd 
+48:00 Settings Page 
