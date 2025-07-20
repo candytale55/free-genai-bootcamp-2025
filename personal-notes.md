@@ -74,6 +74,24 @@ https://www.youtube.com/watch?v=MEhzoR2qJQM
 48:00 Settings Page 
 
 
+Build the Thing
+### Backend API Implement Backend with Windsurf
+https://app.exampro.co/student/material/exp-genai/8068  
+https://www.youtube.com/watch?v=n0GP8OoubK4     
+1:48 Go over the plan       
+8:30 Using WSL?         
+16:30 Read tech spec and tell what to do. before       
+17:00 Start Implementing    
+19:46 What the hell is ByteDance    
+22:00 Implement the missing stuff (handlers)     
+27:00 Don't load data   
+29:00 Check if all endpoints implemented - NOPE 
+32:00 Server stopped before chance to curl it   
+34:00 Run the Seeder    
+
+
+
+
 ### Deepseek in AWS Lambda with Gloria -Ollama & Deepseek 
 https://app.exampro.co/student/material/exp-genai/8071  
 https://www.youtube.com/watch?v=MY94kiTfYdk     
