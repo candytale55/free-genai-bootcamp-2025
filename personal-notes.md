@@ -61,17 +61,33 @@ https://app.exampro.co/student/material/exp-genai/8064
 
 Draft the Specs.
 ### Backend API Writing Backend Frontend Tech Specs
-https://app.exampro.co/student/material/exp-genai/8066
-https://www.youtube.com/watch?v=MEhzoR2qJQM
-6:00 Tech Specs
-
-11:30 Screen of the DashBoard
-14:00 Launch Page
-14-15:00 - Words
-16:00 Study Session
-
-18:00 Specs DashBoard
-23:00 Study Actitivies. 
-
-36:00 FrontEnd 
+https://app.exampro.co/student/material/exp-genai/8066  
+https://www.youtube.com/watch?v=MEhzoR2qJQM     
+6:00 Tech Specs     
+11:30 Screen of the DashBoard       
+14:00 Launch Page       
+14-15:00 - Words        
+16:00 Study Session     
+18:00 Specs DashBoard       
+23:00 Study Actitivies.  
+36:00 FrontEnd   
 48:00 Settings Page 
+
+
+### Deepseek in AWS Lambda with Gloria -Ollama & Deepseek 
+https://app.exampro.co/student/material/exp-genai/8071  
+https://www.youtube.com/watch?v=MY94kiTfYdk     
+1:00 Documentation      
+1:42 Results Lambda, Invocation Logs         
+2:16 Code       
+3:00 Run Locally        
+4:10 Interesting Stuff in the Logs      
+4:55 Cold Start     
+5:18 Space - Which models you can fit.      
+5:40 How it Works - Distilled Models        
+6:00 AWS Lambda Tricks      
+    - Note: Ephemeral Storage        
+7:00 Change Model Path  
+    - Library    
+8:00 Blogpost   
+9:00 Disclaimer 
